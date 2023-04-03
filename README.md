@@ -1,2 +1,2 @@
-# edupark
-edu content
+# GptPark
+ChatGPT content
