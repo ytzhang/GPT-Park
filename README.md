@@ -11,6 +11,7 @@ ChatGPT 相关的一切内容，这里只是引用相关开源项目，仅供参
 - https://github.com/nomic-ai/gpt4all
 - https://github.com/THUDM/ChatGLM-6B
 - https://github.com/THUDM/GLM-130B
+- https://github.com/THUDM/GLM
 - https://github.com/Langboat/Mengzi
 - https://github.com/microsoft/visual-chatgpt
 - https://github.com/Morizeyao/GPT2-Chinese
