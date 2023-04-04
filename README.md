@@ -33,3 +33,4 @@ ChatGPT 相关的一切内容，这里只是引用相关开源项目，仅供参
 
 ## 文档推荐
 - https://github.com/openai/openai-cookbook
+- https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
