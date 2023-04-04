@@ -4,6 +4,7 @@ ChatGPT 相关的一切内容，这里只是引用相关开源项目，仅供参
 ## 开源模型篇
 - https://github.com/LianjiaTech/BELLE
 - https://github.com/facebookresearch/llama
+- https://github.com/ymcui/Chinese-LLaMA-Alpaca
 - https://github.com/tloen/alpaca-lora
 - https://github.com/PhoebusSi/Alpaca-CoT
 - https://huggingface.co/bigscience/bloom
