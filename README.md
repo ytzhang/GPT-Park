@@ -6,6 +6,7 @@ ChatGPT 相关的一切内容，这里只是引用相关开源项目，仅供参
 - https://github.com/facebookresearch/llama
 - https://github.com/tloen/alpaca-lora
 - https://github.com/PhoebusSi/Alpaca-CoT
+- https://huggingface.co/bigscience/bloom
 - https://github.com/tatsu-lab/stanford_alpaca
 - https://github.com/hpcaitech/ColossalAI
 - https://github.com/nomic-ai/gpt4all
