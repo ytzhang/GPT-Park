@@ -23,6 +23,10 @@ ChatGPT 相关的一切内容，这里只是引用相关开源项目，仅供参
 - https://github.com/shibing624/lmft
 - https://github.com/PhoebusSi/Alpaca-CoT
 
+## 推理相关
+- https://github.com/huggingface/text-generation-inference
+- https://github.com/ggerganov/llama.cpp
+
 ## 应用篇
 - https://github.com/microsoft/JARVIS
 - https://github.com/binary-husky/chatgpt_academic
