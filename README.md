@@ -1,5 +1,5 @@
 # GptPark
-ChatGPT 相关的一切内容
+ChatGPT 相关的一切内容，这里只是引用相关开源项目，仅供参考。
 
 ## 开源模型篇
 - https://github.com/LianjiaTech/BELLE
@@ -26,3 +26,6 @@ ChatGPT 相关的一切内容
 
 ## 相关工具
 - https://github.com/hwchase17/langchain
+
+## 文档推荐
+- https://github.com/openai/openai-cookbook
